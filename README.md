@@ -88,8 +88,13 @@ Cybersecurity enthusiast based in Saudi Arabia, with hands-on experience in 24x7
 ## Certifications
 
 <div>
-   <a href="insert cred link here" target="_blank">
-    <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" height="28" alt="eJPT Badge"/>
+  <a href="https://certs.ine.com/a764c09a-ef40-44b6-adde-2dfa23f25d34#acc.VDmAO8zT" 
+   target="_blank" 
+   style="text-decoration:none; display:inline-flex; align-items:center; border-radius:5px; background-color:#FF6600; color:white; padding:0.2em 0.6em; font-family:sans-serif; font-size:0.9em;">
+    <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" 
+         alt="eJPT Logo" 
+         style="height:20px; margin-right:6px;" />
+    eJPT
 </a>
     <a href="https://www.coursera.org/account/accomplishments/professional-cert/SDRVJXKW9KN9" target="_blank">
         <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
