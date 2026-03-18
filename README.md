@@ -94,7 +94,6 @@ Cybersecurity enthusiast based in Saudi Arabia, with hands-on experience in 24x7
     <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" 
          alt="eJPT Logo" 
          style="height:20px; margin-right:6px;" />
-    eJPT
 </a>
     <a href="https://www.coursera.org/account/accomplishments/professional-cert/SDRVJXKW9KN9" target="_blank">
         <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
