@@ -87,21 +87,46 @@ Cybersecurity enthusiast based in Saudi Arabia, with hands-on experience in 24x7
 
 ## Certifications
 
-<div>
+<div style="display:flex; gap:8px; flex-wrap:wrap;">
+
+  <!-- eJPT -->
   <a href="https://certs.ine.com/a764c09a-ef40-44b6-adde-2dfa23f25d34#acc.VDmAO8zT" 
-   target="_blank" 
-   style="text-decoration:none; display:inline-flex; align-items:center; border-radius:5px; background-color:#FF6600; color:white; padding:0.2em 0.6em; font-family:sans-serif; font-size:0.9em;">
-    <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" 
-         alt="eJPT Logo" 
-         style="height:20px; margin-right:6px;" />
-</a>
-    <a href="https://www.coursera.org/account/accomplishments/professional-cert/SDRVJXKW9KN9" target="_blank">
-        <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-    </a>
-    <a href="insert cred link here" target="_blank">
-        <img src="https://img.shields.io/badge/-Student%20SOC%20Program%20Foundations-008080?&style=for-the-badge&logo=microsoft&logoColor=white" />
-    </a>
-    <a href="insert cred link here" target="_blank">
-        <img src="https://img.shields.io/badge/-EnglishScore%20Core%20Skills%20CEFR%20C1-800080?&style=for-the-badge&logo=britishcouncil&logoColor=white" />
-    </a>
+     target="_blank" 
+     style="text-decoration:none; display:inline-flex; align-items:center; border-radius:5px; background-color:#FF6600; color:white; padding:0.2em 0.6em; font-family:sans-serif; font-size:0.9em;">
+      <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" 
+           alt="eJPT Logo" 
+           style="height:20px; margin-right:6px;" />
+      eJPT
+  </a>
+
+  <!-- Google Cybersecurity Professional -->
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/SDRVJXKW9KN9" 
+     target="_blank"
+     style="text-decoration:none; display:inline-flex; align-items:center; border-radius:5px; background-color:#4285F4; color:white; padding:0.2em 0.6em; font-family:sans-serif; font-size:0.9em;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" 
+           alt="Google Logo" 
+           style="height:20px; margin-right:6px;" />
+      Google Cybersecurity Professional
+  </a>
+
+  <!-- Student SOC Program Foundations -->
+  <a href="#" 
+     target="_blank"
+     style="text-decoration:none; display:inline-flex; align-items:center; border-radius:5px; background-color:#008080; color:white; padding:0.2em 0.6em; font-family:sans-serif; font-size:0.9em;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" 
+           alt="Microsoft Logo" 
+           style="height:20px; margin-right:6px;" />
+      Student SOC Program Foundations
+  </a>
+
+  <!-- EnglishScore CEFR C1 -->
+  <a href="#" 
+     target="_blank"
+     style="text-decoration:none; display:inline-flex; align-items:center; border-radius:5px; background-color:#800080; color:white; padding:0.2em 0.6em; font-family:sans-serif; font-size:0.9em;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/British_Council_Logo.svg" 
+           alt="British Council Logo" 
+           style="height:20px; margin-right:6px;" />
+      EnglishScore Core Skills CEFR C1
+  </a>
+
 </div>
